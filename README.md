@@ -1,4 +1,4 @@
-# I am a header #
+# Setup Instructions #
 1. Clone the repo
 2. mvn install using the maven wrapper
 3. Point datasource in application.properties to postgres alpine db
